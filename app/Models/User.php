@@ -8,6 +8,6 @@ protected $primaryKey = 'CustomerId';
 protected $table = 'customer';
 // column sa table
 protected $fillable = [
-'CustomerId', 'Firstname','Middlename','Lastname'
+'CustomerId','Firstname','Middlename','Lastname'
 ];
 }

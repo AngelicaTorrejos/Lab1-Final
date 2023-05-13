@@ -19,7 +19,7 @@ class User_orig extends Model implements AuthenticatableContract, AuthorizableCo
      * @var string[]
      */
     protected $fillable = [
-        'name', 'email',
+        'name','email'
     ];
 
     /**
